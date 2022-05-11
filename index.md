@@ -1,3 +1,2 @@
 # Mustafa Gürol KOŞAR  /  Florya Konut Projesi
-# TV izleme alanından görünüm
-<iframe width="100%" height="640" style="width: 100%; height: 640px; border: none; max-width: 100%;" frameborder="0" allowfullscreen allow="xr-spatial-tracking; gyroscope; accelerometer" scrolling="no" src="https://kuula.co/share/collection/7vLnk?logo=1&info=1&fs=1&vr=0&zoom=1&gyro=0&thumbs=1&alpha=0.60"></iframe>
+<iframe width="100%" height="640" style="width: 100%; height: 640px; border: none; max-width: 100%;" frameborder="0" allowfullscreen allow="xr-spatial-tracking; gyroscope; accelerometer" scrolling="no" src="https://kuula.co/share/collection/7vmSH?logo=1&info=1&fs=1&vr=0&zoom=1&gyro=0&thumbs=1&alpha=0.60"></iframe>
